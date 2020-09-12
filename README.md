@@ -6,6 +6,12 @@ A Java Command Line App Color Library
 
 To implement colors, use: `ColorUtils.[color_name].getColor()`
 
+# Todo
+
+- Add more colors.
+
+- Add some quick methods for resetting colors, underlining, and bold text, etc.
+
 # Supported Colors
 
 Bold Colors
